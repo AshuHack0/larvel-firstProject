@@ -1,0 +1,1 @@
+when installing the brezze for the login and registration or  profile managment it will delete the web.php app.css this two file is deleted so make sure to take backup of it 
